@@ -1,0 +1,2 @@
+# BCTraining
+Business Central Training
