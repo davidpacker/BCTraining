@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="VendorQuality">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2021274977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Quality Assessment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 3409165476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount Due</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Amount Due - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 1512462145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount To Pay (Not Due)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Amount To Pay - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 907204070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Year Invoiced Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Current Year Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 943829972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery On Time Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Delivery On Time Score - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 2031712006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Packaging Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Item Packaging Score - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 120213156 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Quality Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Item Quality Score - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 363257524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Assessment Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Last Assessment Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 2753180934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Financial Update</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Last Financial Update - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 107135460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Overall Rating</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Overall Rating - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 180684790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Previous Year Invoiced Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Previous Year Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 3653585100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pricing Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Pricing Score - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 3933043527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Two Years Ago Invoiced Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Two Years Ago Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 3119688693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2021274977 - Field 1527594213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Assessment - Field Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3985263690 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Quality Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3985263690 - Field 4109267790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery On Time Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Setup - Field Delivery On Time Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3985263690 - Field 2396754636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Packaging Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Setup - Field Item Packaging Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3985263690 - Field 3558670430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Quality Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Setup - Field Item Quality Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3985263690 - Field 416348067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Accepted Vendor Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Setup - Field Minimum Accepted Vendor Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3985263690 - Field 3836173142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pricing Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Setup - Field Pricing Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3985263690 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Quality Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Quality Assessment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 2167949035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Financial Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control FinancialData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 3409165476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the total amount due for this vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Amount Due - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 1512462145 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the total amount to pay that is not yet due</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Amount To Pay - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 907204070 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the total invoiced amount for the current year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Current Year Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 2753180934 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows when the financial data was last updated</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Last Financial Update - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 180684790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the total invoiced amount for the previous year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Previous Year Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 3933043527 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the total invoiced amount from two years ago</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Two Years Ago Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 363257524 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date of the last quality assessment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Last Assessment Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 1527594213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the vendor number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 779730061 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control VendorName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 779730061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control VendorName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 1905671789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality Scores</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Scores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 943829972 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the score for delivery timeliness (0-10)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Delivery On Time Score - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 2031712006 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the score for item packaging quality (0-10)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Item Packaging Score - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 120213156 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the score for item quality (0-10)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Item Quality Score - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 107135460 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the overall weighted rating for this vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Overall Rating - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Control 3653585100 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the score for pricing (0-10)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Control Pricing Score - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Action 2717309668 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updates the financial data for this vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Action UpdateFinancialData - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3677493079 - Action 2717309668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Financial Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Card - Action UpdateFinancialData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1864322702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Quality Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Setup Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1864322702 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Setup Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1864322702 - Control 416348067 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the minimum acceptable rating for vendors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Setup Card - Control Minimum Accepted Vendor Rate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1864322702 - Control 1180573509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category Weights</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Setup Card - Control Weights - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1864322702 - Control 4109267790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the weight percentage for delivery time in vendor rating</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Setup Card - Control Delivery On Time Rate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1864322702 - Control 2396754636 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the weight percentage for packaging quality in vendor rating</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Setup Card - Control Item Packaging Rate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1864322702 - Control 3558670430 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the weight percentage for item quality in vendor rating</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Setup Card - Control Item Quality Rate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1864322702 - Control 3836173142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the weight percentage for pricing in vendor rating</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Quality Setup Card - Control Pricing Rate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 515410600 - Action 1219064136 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>View the quality assessment for this vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purchase Order Ext - Action ViewVendorQuality - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 515410600 - Action 1219064136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Vendor Quality Assessment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purchase Order Ext - Action ViewVendorQuality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 515410600 - Control 3017417546 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Shows the quality rating for this vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purchase Order Ext - Control Vendor Quality Rating - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4121073707 - Action 1750046409 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>View or update the quality assessment for this vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Vendor Card Ext - Action VendorQualityAssessment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4121073707 - Action 1750046409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Quality Assessment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Vendor Card Ext - Action VendorQualityAssessment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4121073707 - Control 2406724216 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Specifies the quality score for this vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Vendor Card Ext - Control Vendor Score - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1063470249 - Action 1750046409 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4194195770">
+          <source>View or update the quality assessment for the selected vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Vendor List Ext - Action VendorQualityAssessment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1063470249 - Action 1750046409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4194195770">
+          <source>Quality Assessment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Vendor List Ext - Action VendorQualityAssessment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1063470249 - Control 2406724216 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4194195770">
+          <source>Specifies the quality score for this vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Vendor List Ext - Control Vendor Score - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3300055767 - Field 2406724216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Vendor Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Vendor Ext - Field Vendor Score - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
